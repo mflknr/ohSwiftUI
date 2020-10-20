@@ -10,9 +10,9 @@ The first 12 days provide a gentle warm up for your SwiftUI learning as we cover
 
 If you have already completed my 100 Days of Swift you can skip these first 15 days because they are the same.
 
-* ~~Day 1 – variables, simple data types, and string interpolation~~ 13.05.20
-* ~~Day 2 – arrays, dictionaries, sets, and enums~~ 05.08.20
-* Day 3 – operators and conditions
+* ~~Day 1 – variables, simple data types, and string interpolation~~
+* ~~Day 2 – arrays, dictionaries, sets, and enums~~
+* ~~Day 3 – operators and conditions~~
 * Day 4 – loops, loops, and more loops
 * Day 5 – functions, parameters, and errors
 * Day 6 – closures part one
