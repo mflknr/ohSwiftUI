@@ -20,7 +20,7 @@ If you have already completed my 100 Days of Swift you can skip these first 15 d
 * ~~Day 8 – structs, properties, and methods~~
 * ~~Day 9 – access control, static properties, and laziness~~
 * ~~Day 10 – classes and inheritance~~
-* Day 11 – protocols, extensions, and protocol extensions
+* ~~Day 11 – protocols, extensions, and protocol extensions~~
 * Day 12 – optionals, unwrapping, and typecasting
  
 ## Days 13-15: Consolidation I
