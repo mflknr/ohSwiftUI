@@ -27,9 +27,9 @@ If you have already completed my 100 Days of Swift you can skip these first 15 d
 
 You just learned a lot about Swift in only 12 days, so before we continue it's important you reflect on what you've learned: look for weak spots, re-watch videos, re-take tests, and so on, until you feel comfortable that you have mastered all the Swift language fundamentals covered in days 1-12.
 
-* Day 13 – Swift review, day one
-* Day 14 – Swift review, day two
-* Day 15 – Swift review, day three
+* ~~Day 13 – Swift review, day one~~
+* ~~Day 14 – Swift review, day two~~
+* ~~Day 15 – Swift review, day three~~
 
 ## Days 16-24: Starting SwiftUI
 
