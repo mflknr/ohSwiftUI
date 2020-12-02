@@ -35,7 +35,7 @@ You just learned a lot about Swift in only 12 days, so before we continue it's i
 
 Now that you’ve mastered the basics of Swift, in these days you’ll start building real SwiftUI apps using what you learned.
 
-* Day 16 – Project 1, part one
+* ~~Day 16 – Project 1, part one~~
 * Day 17 – Project 1, part two
 * Day 18 – Project 1, part three
 * Day 19 – Challenge day
