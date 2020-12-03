@@ -37,7 +37,7 @@ Now that you’ve mastered the basics of Swift, in these days you’ll start bui
 
 * ~~Day 16 – Project 1, part one~~
 * ~~Day 17 – Project 1, part two~~
-* Day 18 – Project 1, part three
+* ~~Day 18 – Project 1, part three~~
 * Day 19 – Challenge day
 * Day 20 – Project 2, part one
 * Day 21 – Project 2, part two
